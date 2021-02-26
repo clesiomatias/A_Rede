@@ -1,0 +1,7 @@
+azul forte = #1A4B79
+azul médio = #3474A2
+azul claro = #8CB5CB
+azul extra claro = #AFCCD3
+
+laranja = #FF8C00
+amarelo = #FECC3A
